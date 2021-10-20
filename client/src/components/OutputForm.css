@@ -1,0 +1,55 @@
+.Outputdiv {
+    border: solid black 2px;
+    box-shadow: 0 0 5px 0 black;
+    margin-top: 40px;
+    margin-left: 305px;
+    margin-right: 100px;
+    color: white;
+    font-size: 25px;
+    width: 696px;
+    padding-left: 8px;
+}
+.item {
+    display: inline;
+}
+.detail {
+    color: white;
+}
+.date {
+    background-color: black;
+    color: white;
+    height: 39px;
+    width: 154px;
+    margin-left: 22px;
+    margin-bottom: 17px;
+}
+.amount {
+    margin-left: 40px;
+    height: 39px;
+    width: 107px;
+    background: black;
+}
+.row {
+    height: 70px;
+    width: 668px;
+    margin-top: 17px;
+    border: solid 1px white;
+    padding-top: 15px;
+    background-color: blueviolet;
+}
+.outerdiv {
+    margin-left: 15px;
+    margin-bottom: 15px;
+}
+.deletebtn {
+    height: 43px;
+    width: 88px;
+    margin-left: 10px;
+}
+.infodiv {
+    height: 65px;
+    width: 662px;
+    padding-right: 129px;
+    margin-left: 4px;
+    margin-bottom: 18px;
+}
